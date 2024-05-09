@@ -25,7 +25,7 @@ module.exports = {
 
 ```
 
-db.config.js
+> db.config.js
 ```
 module.exports = {
   HOST: "localhost",
